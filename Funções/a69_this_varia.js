@@ -17,4 +17,4 @@
 No teste do browser,independente de como chamarmos this, ou onde ele estiver, se usarmos a função arrow, this apontara para window ou escopo global. 
 
 Se this for utilizado em uma função 'tradicional' ele pode variar, usando this em uma arrow functio o this não varia. 
-O this sera definido no momento que a função for definida, o this sera usado ou associado ao contexto que função foi definida. 
+O this sera definido no momento que a função for definida, o this sera usado ou associado ao contexto que função foi definida. */
