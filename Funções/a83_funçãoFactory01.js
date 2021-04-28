@@ -12,9 +12,16 @@ function criaPessoa() {
 
 console.log(criaPessoa())
 
+//Exemplo usando arrowfunction
 
+var criarMovel = () => {
+    return {
+        tipo: "Armário",
+        modelo: "Vertical"
+    }
+}
 
-
+console.log(criarMovel())
 
 
 //Factory para não criar vários objetos semelhantes, exemplos de objetos repetidos 
