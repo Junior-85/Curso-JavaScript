@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+.container {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 100px;
+    top: 80px;
+    border: 2px;
+    border-radius: 10%;
+    padding: 10px 5px;
+   
+    background-color: aqua;
+}
+
+.saida {
+    margin: 5px;
+    width: 100px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 10px;
+    }
+
+    select#flista {
+    width: 150px;
+}
+

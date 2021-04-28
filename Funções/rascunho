@@ -1,0 +1,25 @@
+//console.log('Usando Fetch')
+//console.log(window.fetch)
+/*function teste (){
+fetch('https://swapi.dev/api/people/1/')
+.then(function(response){
+    return response.json()
+})
+.then(function(data){
+    
+    console.log(data.name)
+})
+}
+
+console.log(teste())*/
+
+
+/*
+//function teste() {
+fetch('https://api.openweathermap.org/data/2.5/weather?q=' + input.value + '&units=metric&appid=9a4afdb555b5bbbe28fbdd8df81ecccc&lang=pt')
+        .then(response => response.json())
+        .then(data => {
+            var nameValue = data['name']
+        })
+    */ 
+   
