@@ -45,5 +45,4 @@ console.log(getPreco.apply(produto)) // Chamada do tipo apply, Coloca o objeto c
 // E depois em um array com todos os parametros que serao usados na funcao
 console.log(getPreco.apply(carro, [0.17, '$']))
 console.log(getPreco.apply(produto, [0.17, '$']))
-// console.log(getPreco.apply(global, [0.17, '$']))
-// console.log(getPreco.aplly(global, [0.17, '$']))
+console.log(getPreco.apply(global, [0.17, '$']))
